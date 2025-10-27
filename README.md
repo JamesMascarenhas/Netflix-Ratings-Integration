@@ -1,11 +1,11 @@
 # Netflix Ratings Integration (IMDb & Rotten Tomatoes) 
 A lightweight **Tampermonkey** userscript that shows **IMDb** and **Rotten Tomatoes** ratings on **Netflix** title pages (the preview modal / detail page that opens when you click a show or movie).
 
-- 🚀 Works on `?jbv=...` Netflix title URLs and the “click-in” modal.
-- 🔎 Uses stable metadata (JSON-LD / `og:title`) rather than scraping volatile UI.
-- 🎯 Smart matching for ambiguous names (e.g., “The Perfect Neighbor”), using year + type and OMDb’s search fallback.
-- ✨ Clean, unobtrusive badge injected under the **Play / Resume / Next Episode** row.
-- 🔐 No tracking, no external libraries.
+- Works on `?jbv=...` Netflix title URLs and the “click-in” modal.
+- Uses stable metadata (JSON-LD / `og:title`) rather than scraping volatile UI.
+- Smart matching for ambiguous names (e.g., “The Perfect Neighbor”), using year + type and OMDb’s search fallback.
+- Clean, unobtrusive badge injected under the **Play / Resume / Next Episode** row.
+- No tracking, no external libraries.
 
 > **You must supply your own OMDb API key.** It’s free to get. See **Setup** below.
 
@@ -15,7 +15,7 @@ A lightweight **Tampermonkey** userscript that shows **IMDb** and **Rotten Tomat
 
 <p align="center">
   <figure style="display:inline-block; text-align:center; margin: 0 10px;">
-    <figcaption><b>Dead Poets Example</b></figcaption>
+    <figcaption><b>Dead Poets Society Example</b></figcaption>
     <img src="documents/deadpoets.png" alt="Dead Poets Example" width="70%" />
   </figure>
   <figure style="display:inline-block; text-align:center; margin: 0 10px;">
