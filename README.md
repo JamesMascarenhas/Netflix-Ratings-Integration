@@ -33,7 +33,7 @@ A lightweight **Tampermonkey** userscript that shows **IMDb** and **Rotten Tomat
 ## Requirements
 
 - **Chrome 138+** (or any Chromium-based browser with the new userscripts permission model)
-- **Tampermonkey** v5.3+ (we tested on 5.4.0)
+- **Tampermonkey** v5.3+ (I tested on 5.4.0)
 - **OMDb API key** (free) — https://www.omdbapi.com/apikey.aspx
 
 > **Chrome 138+ permission change:** you must enable **Allow User Scripts** (or **Developer Mode**) for Tampermonkey, or userscripts will not run.
