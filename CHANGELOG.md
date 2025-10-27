@@ -38,7 +38,7 @@ Entries are listed in chronological order (oldest first, newest last).
 
 ---
 
-## [Upcoming] - Planned Enhancements
+## Planned Enhancements
 ### Goals
 - **Letterboxd rating integration** for movies (using IMDb ID → Letterboxd URL or third-party API)
 - Improved Rotten Tomatoes coverage via secondary API (e.g., Watchmode or TMDb)
