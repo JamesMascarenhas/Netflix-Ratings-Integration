@@ -5,7 +5,7 @@ Entries are listed in chronological order (oldest first, newest last).
 
 ---
 
-## [1.6.0] - 2025-10-25
+## 2025-10-25
 ### Added
 - Initial working version with IMDb and Rotten Tomatoes integration
 - Basic badge injection and styling beneath the Play button
@@ -13,7 +13,7 @@ Entries are listed in chronological order (oldest first, newest last).
 
 ---
 
-## [1.7.0] - 2025-10-25
+## 2025-10-25
 ### Added
 - Smart OMDb matching: title, year, and type awareness with fallback search
 - Dynamic update detection using MutationObserver for Netflix’s SPA navigation
@@ -25,7 +25,7 @@ Entries are listed in chronological order (oldest first, newest last).
 
 ---
 
-## [1.8.1] - 2025-10-26
+## 2025-10-26
 ### Added
 - Emoji badges: ⭐ for IMDb and 🍅 for Rotten Tomatoes
 - Stable metadata extraction using JSON-LD and `og:title` tags
