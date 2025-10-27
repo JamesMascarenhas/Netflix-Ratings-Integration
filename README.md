@@ -13,11 +13,11 @@ A lightweight **Tampermonkey** userscript that shows **IMDb** and **Rotten Tomat
 
 ## Examples
 
-  ![Dead Poets Example](documents/deadpoets.png)
-
-  ![Breaking Bad Example](documents/breakingbad.png)
-
-  ![Moneyball Example](documents/moneyball.png)
+<p align="center">
+  <img src="documents/deadpoets.png" alt="Dead Poets Example" width="30%" />
+  <img src="documents/breakingbad.png" alt="Breaking Bad Example" width="30%" />
+  <img src="documents/moneyball.png" alt="Moneyball Example" width="30%" />
+</p>
 
 ---
 
