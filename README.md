@@ -11,15 +11,13 @@ A lightweight **Tampermonkey** userscript that shows **IMDb** and **Rotten Tomat
 
 ---
 
-## Demo
+## Examples
 
-Add your screenshots to `assets/screenshots/` and reference them here:
+  ![Dead Poets Example](documents/deadpoets.png)
 
-- Badge under Play/Resume row  
-  ![Badge under Play button](assets/screenshots/badge-under-play.png)
+  ![Breaking Bad Example](documents/breakingbad.png)
 
-- Example (Breaking Bad)  
-  ![Breaking Bad example](assets/screenshots/breaking-bad.png)
+  ![Moneyball Example](documents/moneyball.png)
 
 ---
 
