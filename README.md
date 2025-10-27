@@ -14,9 +14,18 @@ A lightweight **Tampermonkey** userscript that shows **IMDb** and **Rotten Tomat
 ## Examples
 
 <p align="center">
-  <img src="documents/deadpoets.png" alt="Dead Poets Example" width="60%" />
-  <img src="documents/breakingbad.png" alt="Breaking Bad Example" width="60%" />
-  <img src="documents/moneyball.png" alt="Moneyball Example" width="60%" />
+  <figure style="display:inline-block; text-align:center; margin: 0 10px;">
+    <figcaption><b>Dead Poets Example</b></figcaption>
+    <img src="documents/deadpoets.png" alt="Dead Poets Example" width="70%" />
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin: 0 10px;">
+    <figcaption><b>Breaking Bad Example</b></figcaption>
+    <img src="documents/breakingbad.png" alt="Breaking Bad Example" width="70%" />
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin: 0 10px;">
+    <figcaption><b>Moneyball Example</b></figcaption>
+    <img src="documents/moneyball.png" alt="Moneyball Example" width="70%" />
+  </figure>
 </p>
 
 ---
